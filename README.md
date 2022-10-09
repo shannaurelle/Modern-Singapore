@@ -1,26 +1,25 @@
-# ph-bonifacio-unciv
+# modern-singapore
 
-## Philippines Mod for Unciv 
+## Modern Singapore Mod for Unciv
 
-A mod featuring the Philippines with the Leader Andres Bonifacio
+A mod featuring Singapore under Lee Kuan Yew.
 
-Leader: Andres Bonifacio 
+Leader: Lee Kuan Yew
 
-Title: Supreme Leader of the Katipunan
+Title: Eternal Statesman of Signapore
 
-#### Unique Bonus: Sovereign Tagalog Nation
+#### Unique Bonus: Economic Pragmatism
 
-+1 Production from Farm
++1 Gold from each tile except River and Ocean. 
 
-#### Unique Building: IRRI (International Rice Research Institute)
+#### Unique Building: Green Building
 
-Unlocked on Education. Replaces University.
-+10% food,+25% Science, and +2 Science from Farm tiles.
+Replaces Colosseum. +3 Happiness. No maintenance cost.
 
-#### Unique Unit: Katipunero
+#### Unique Unit: SLWH Pegasus
 
-Replaces Rifleman. Shock I promotion, +25% combat bonus in hill,
-+25% combat bonus in forest, and +25% combat bonus in jungle
+Unlocked on Dynamite. Replaces Artillery
++1 Movement, Logistics Promotion
 
 ## Suggestions? Bugs?
 
