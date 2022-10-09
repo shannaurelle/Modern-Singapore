@@ -20,6 +20,6 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Economic Pragmatism",
 		"uniques": ["[+1 Gold] from [All] tiles","[-1 Gold] from [River] tiles"],
-		"cities": ["Singapore","Tampines","Woodlands","Seletar","Jurong East"]
+		"cities": ["Singapore","Queenstown","Toa Payoh","Bedok","Marine Parade","Woodlands","Bukit Merah","Hougang","Ang Mo Kio","Clementi"]
 	}        	
 ]
