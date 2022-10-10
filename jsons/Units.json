@@ -8,10 +8,10 @@
 		"strength": 21,
 		"rangedStrength": 28,
 		"range": 3,
-		"cost": 200,
+		"cost": 350,
 		"requiredTech": "Dynamite",
 		"upgradesTo": "Rocket Artillery",
-		"uniques": ["Must set up to ranged attack","Rough terrain penalty"],
+		"uniques": ["[+200]% Strength <vs cities> <when attacking>","Must set up to ranged attack","No defensive terrain bonuses","[-1] Sight","Never appears as a Barbarian unit"],
 		"promotions":["Logistics","Indirect Fire"],
 		"attackSound": "artillery"
 	}
