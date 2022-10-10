@@ -14,7 +14,7 @@ Title: Eternal Statesman of Singapore
 
 #### Unique Building: HDB Flat
 
-Replaces Colosseum. +2 Happiness. 4 maintenance cost. Earns 1 gold per 2 citizens.
+Replaces Colosseum. +2 Happiness. 4 maintenance cost. Earns 1 gold per 2 citizens. Costs +50% more to build than usual.
 
 #### Unique Unit: SLWH Pegasus
 
