@@ -12,9 +12,9 @@ Title: Eternal Statesman of Singapore
 
 +1 Gold from each tile except River and Ocean. 
 
-#### Unique Building: Green Building
+#### Unique Building: HDB Flat
 
-Replaces Colosseum. +3 Happiness. No maintenance cost.
+Replaces Colosseum. +2 Happiness. 4 maintenance cost. Earns 1 gold per 2 citizens.
 
 #### Unique Unit: SLWH Pegasus
 
