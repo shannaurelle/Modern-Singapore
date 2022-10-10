@@ -10,7 +10,7 @@ Title: Eternal Statesman of Singapore
 
 #### Unique Bonus: Economic Pragmatism
 
-+1 Gold from each tile except River and Ocean. 
++1 Gold from each tile except River, Ocean, and Oasis. 
 
 #### Unique Building: HDB Flat
 
