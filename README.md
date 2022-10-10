@@ -12,7 +12,7 @@ Title: Eternal Statesman of Singapore
 
 +1 Gold from each tile except River, Ocean, and Oasis. 
 
-#### Unique Building: HDB Flat
+#### Unique Building: HDB Flats
 
 Replaces Colosseum. +2 Happiness. 4 maintenance cost. Earns 1 gold per 2 citizens. Costs +50% more to build than usual.
 
