@@ -1,14 +1,13 @@
 [
     {
-        "name": "IRRI",
-        "science": 3,
-        "percentStatBonus": {"science": 25, "food": 10},
-        "specialistSlots": {"Scientist": 3},
-        "replaces": "University",
-        "uniqueTo": "Philippines",
-        "maintenance": 3,
-        "hurryCostModifier": 25,
-        "uniques": ["[+2 Science] from [Farm] tiles [in this city]"],
-        "requiredTech": "Education"
+        "name": "HDB Flats",
+        "replaces": "Colosseum",
+        "uniqueTo": "Singapore",
+	"happiness": 2,
+	"cost": 150,
+        "maintenance": 4,
+        "hurryCostModifier": 50,
+        "uniques": ["[+1 Gold] per [2] population [in this city]"],
+        "requiredTech": "Construction"
     }
 ]
