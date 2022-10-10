@@ -6,7 +6,7 @@ A mod featuring Singapore under Lee Kuan Yew.
 
 Leader: Lee Kuan Yew
 
-Title: Eternal Statesman of Signapore
+Title: Eternal Statesman of Singapore
 
 #### Unique Bonus: Economic Pragmatism
 
