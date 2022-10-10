@@ -16,10 +16,10 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "Hello. What do you want?",
 		"tradeRequest": "This offer won't be valid for a lot of time, think about it.",
-		"outerColor": [139,0,0],
+		"outerColor": [238,37,54],
 		"innerColor": [255,255,255],
 		"uniqueName": "Economic Pragmatism",
-		"uniques": ["[+1 Gold] from [All] tiles","[-1 Gold] from [River] tiles"],
+		"uniques": ["[+1 Gold] from [All] tiles without [River] [in all cities]"],
 		"cities": ["Singapore","Queenstown","Toa Payoh","Bedok","Marine Parade","Woodlands","Bukit Merah","Hougang","Ang Mo Kio","Clementi"]
 	}        	
 ]
