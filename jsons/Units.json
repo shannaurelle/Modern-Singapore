@@ -1,17 +1,18 @@
 [
 	{
-		"name": "Katipunero",
-		"unitType": "Melee",
-		"replaces": "Rifleman",
-		"uniqueTo":"Philippines",
-		"movement": 2,
-		"strength": 34,
-		"cost": 225,
-		"requiredTech": "Rifling",
-		"obsoleteTech": "Replaceable Parts",
-		"upgradesTo": "Great War Infantry",
-		"uniques": ["+[25]% combat bonus in [Hill]","+[25]% combat bonus in [Forest]","+[25]% combat bonus in [Jungle]"],
-		"promotions":["Shock I"],
-		"attackSound": "shot"
+		"name": "SLWH Pegasus",
+		"unitType": "Siege",
+		"replaces": "Artillery",
+		"uniqueTo":"Singapore",
+		"movement": 3,
+		"strength": 21,
+		"rangedStrength": 28,
+		"range": 3,
+		"cost": 200,
+		"requiredTech": "Dynamite",
+		"upgradesTo": "Rocket Artillery",
+		"uniques": ["Must set up to ranged attack","Rough terrain penalty"],
+		"promotions":["Logistics","Indirect Fire"],
+		"attackSound": "artillery"
 	}
 ]
